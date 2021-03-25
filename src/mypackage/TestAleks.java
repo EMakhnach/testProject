@@ -27,8 +27,6 @@ public class TestAleks {
         return arr;
     }
 
-
-
     public void invertUsingCollectionsReverse(Object[] array) {
         List<Object> list = Arrays.asList(array);
         Collections.reverse(list);
